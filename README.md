@@ -1,16 +1,12 @@
 # cozy_study_app
 
-A new Flutter project.
+A cozy, warm-toned Flutter study companion app designed to help you get stuff done — with a calendar, to-do lists, focus timer, and curated study music, all wrapped in a soft aesthetic.
 
-## Getting Started
+**Features:**
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Quiz Onboarding** — Takes users through a short quiz (via an embedded Google Form) to help find their ideal study schedule before entering the main app.
+**Study Home Dashboard** — A cozy background with quick-access buttons to all core features.
+**Calendar** — Add, view, and delete events per day using an interactive month/week calendar (powered by table_calendar).
+** To-Do Lists** — Create multiple named to-do lists, add tasks, check them off, and delete them. State is managed with Riverpod.
+**Music** — Quick-launch curated Spotify playlists (White Noise, Brown Noise, Lo-Fi, Rain Sounds, Classical, Piano) for focused studying.
+**Focus Timer** — A simple countdown timer with start/pause and reset controls.
