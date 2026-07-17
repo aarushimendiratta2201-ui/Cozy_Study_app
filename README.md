@@ -10,3 +10,13 @@ A cozy, warm-toned Flutter study companion app designed to help you get stuff do
 ** To-Do Lists** — Create multiple named to-do lists, add tasks, check them off, and delete them. State is managed with Riverpod.
 **Music** — Quick-launch curated Spotify playlists (White Noise, Brown Noise, Lo-Fi, Rain Sounds, Classical, Piano) for focused studying.
 **Focus Timer** — A simple countdown timer with start/pause and reset controls.
+
+
+**Tech Stack**
+
+Framework: Flutter
+State Management: flutter_riverpod
+Calendar UI: table_calendar
+Date Formatting: intl
+Unique IDs: uuid
+External Links: url_launcher
