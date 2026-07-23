@@ -1,4 +1,4 @@
-# cozy_study_app
+# CozyStudy
 
 A cozy, warm-toned Flutter study companion app designed to help you get stuff done — with a calendar, to-do lists, focus timer, and curated study music, all wrapped in a soft aesthetic.
 
